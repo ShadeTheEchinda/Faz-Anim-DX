@@ -1,4 +1,4 @@
-Faz-Anim is a Five Nights at Freddy's Fangame using the RR-Engine for simulation.
+Faz-Anim DX is a Five Nights at Freddy's Fangame using the RR-Engine for simulation.
 
 # Description
 The RR Engine is a Unity codebase for simulating and animating old animatronics, with various features to customize the viewing experience.
